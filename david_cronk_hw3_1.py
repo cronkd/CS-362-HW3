@@ -8,7 +8,7 @@
 import time
 #Get user input
 #try:
-	year = int(input("\nEnter a year to see if it is a leap year: "))
+year = int(input("\nEnter a year to see if it is a leap year: "))
 #check if input is an integer
 #except:
 #	print("\nNot a valid input, please run again!\n")
